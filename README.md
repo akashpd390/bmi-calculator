@@ -15,7 +15,7 @@ A simple BMI (Body Mass Index) calculator implemented in Python using customtkin
 
    ```bash
    git clone https://github.com/akashpd390/bmi-calculator.git
-   cd bmi-calculator` 
+   cd bmi-calculator
 
 2.  Install dependencies:
     
