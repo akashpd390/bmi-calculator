@@ -1,0 +1,17 @@
+# text suzes
+FONT = 'Calibri'
+MAIN_TEXT_SIZE= 150
+INPUT_FONT_SIZE= 26
+SWITCH_FONT_SIZE = 18
+
+# colors
+GREEN ='#7FC7D9'
+
+DARK_GREEN='#3A8A7B'
+WHITE ='#F2F2F2'
+BLACK ='#1F1F1F'
+LIGHT_GRAY ='#E8E8E8'
+GRAY ='#D9D9D9'
+
+# title hex
+TITLE_HEX_COLOR = 0x007FC7D9 # hex order:0xØ0bbggrr #50BFAB
